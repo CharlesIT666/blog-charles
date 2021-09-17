@@ -10,7 +10,7 @@ module.exports = {
     dest: './docs/.vuepress/dist',
     ga: '',
     evergreen: true,
-    base: '/', // 这是部署到github相关的配置
+    base: '/blog-charles/', // 这是部署到github相关的配置
     markdown: {
         lineNumbers: false // 代码块显示行号
     },
